@@ -1,0 +1,720 @@
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\Micraft_Solutions.dll.config
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\Micraft_Solutions.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\Micraft_Solutions.pdb
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csc.exe
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csc.exe.config
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csc.rsp
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csi.exe
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csi.exe.config
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csi.rsp
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.AppContext.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Console.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.Compression.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Claims.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.ValueTuple.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\vbc.exe
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\vbc.exe.config
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\vbc.rsp
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\VBCSCompiler.exe
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\Antlr3.Runtime.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\EntityFramework.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\EntityFramework.SqlServer.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\Newtonsoft.Json.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Helpers.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Mvc.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Optimization.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Razor.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.Razor.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\WebGrease.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\EntityFramework.xml
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\EntityFramework.SqlServer.xml
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Helpers.xml
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Mvc.xml
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Optimization.xml
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Razor.xml
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.xml
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.Razor.xml
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\Newtonsoft.Json.xml
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\Antlr3.Runtime.pdb
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.csproj.CoreCompileInputs.cache
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.csproj.CopyComplete
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.dll
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.pdb
+C:\Users\Malik\source\repos\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.csprojAssemblyReference.cache
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\Micraft_Solutions.dll.config
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\Micraft_Solutions.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\Micraft_Solutions.pdb
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csc.exe
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csc.exe.config
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csc.rsp
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csi.exe
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csi.exe.config
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csi.rsp
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.AppContext.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Collections.Immutable.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Console.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.Compression.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.FileSystem.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.Pipes.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Reflection.Metadata.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.AccessControl.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Claims.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.ValueTuple.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Xml.XPath.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\vbc.exe
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\vbc.exe.config
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\vbc.rsp
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\VBCSCompiler.exe
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\roslyn\VBCSCompiler.exe.config
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\Antlr3.Runtime.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\EntityFramework.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\EntityFramework.SqlServer.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\Microsoft.Web.Infrastructure.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\Newtonsoft.Json.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Helpers.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Mvc.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Optimization.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Razor.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.Deployment.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.Razor.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\WebGrease.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\EntityFramework.xml
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\EntityFramework.SqlServer.xml
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Helpers.xml
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Mvc.xml
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Optimization.xml
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Razor.xml
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.xml
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.Deployment.xml
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.Razor.xml
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\Newtonsoft.Json.xml
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\Antlr3.Runtime.pdb
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.csproj.CoreCompileInputs.cache
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.csproj.CopyComplete
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.dll
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.pdb
+F:\Kiran Mali\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.csprojAssemblyReference.cache
+C:\Micraft_Solutions\Micraft_Solutions\bin\Micraft_Solutions.dll.config
+C:\Micraft_Solutions\Micraft_Solutions\bin\Micraft_Solutions.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\Micraft_Solutions.pdb
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csc.exe
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csc.exe.config
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csc.rsp
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csi.exe
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csi.exe.config
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csi.rsp
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.AppContext.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Collections.Immutable.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Console.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.Compression.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.FileSystem.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.Pipes.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Reflection.Metadata.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.AccessControl.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Claims.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.ValueTuple.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Xml.XPath.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\vbc.exe
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\vbc.exe.config
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\vbc.rsp
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\VBCSCompiler.exe
+C:\Micraft_Solutions\Micraft_Solutions\bin\roslyn\VBCSCompiler.exe.config
+C:\Micraft_Solutions\Micraft_Solutions\bin\Antlr3.Runtime.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\EntityFramework.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\EntityFramework.SqlServer.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\Microsoft.Web.Infrastructure.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\Newtonsoft.Json.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Helpers.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Mvc.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Optimization.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Razor.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.Deployment.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.Razor.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\WebGrease.dll
+C:\Micraft_Solutions\Micraft_Solutions\bin\EntityFramework.xml
+C:\Micraft_Solutions\Micraft_Solutions\bin\EntityFramework.SqlServer.xml
+C:\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Helpers.xml
+C:\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Mvc.xml
+C:\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Optimization.xml
+C:\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Razor.xml
+C:\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.xml
+C:\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.Deployment.xml
+C:\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.Razor.xml
+C:\Micraft_Solutions\Micraft_Solutions\bin\Newtonsoft.Json.xml
+C:\Micraft_Solutions\Micraft_Solutions\bin\Antlr3.Runtime.pdb
+C:\Micraft_Solutions\Micraft_Solutions\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.csprojAssemblyReference.cache
+C:\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.csproj.CoreCompileInputs.cache
+C:\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.csproj.CopyComplete
+C:\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.dll
+C:\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.pdb
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\Micraft_Solutions.dll.config
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\Micraft_Solutions.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\Micraft_Solutions.pdb
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csc.exe
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csc.exe.config
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csc.rsp
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csi.exe
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csi.exe.config
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csi.rsp
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.AppContext.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Collections.Immutable.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Console.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.Compression.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.FileSystem.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.Pipes.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Reflection.Metadata.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.AccessControl.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Claims.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.ValueTuple.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Xml.XPath.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\vbc.exe
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\vbc.exe.config
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\vbc.rsp
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\VBCSCompiler.exe
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\roslyn\VBCSCompiler.exe.config
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\Antlr3.Runtime.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\EntityFramework.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\EntityFramework.SqlServer.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\Microsoft.Web.Infrastructure.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\Newtonsoft.Json.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Helpers.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Mvc.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Optimization.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Razor.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.Deployment.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.Razor.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\WebGrease.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\EntityFramework.xml
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\EntityFramework.SqlServer.xml
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Helpers.xml
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Mvc.xml
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Optimization.xml
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Razor.xml
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.xml
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.Deployment.xml
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.Razor.xml
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\Newtonsoft.Json.xml
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\Antlr3.Runtime.pdb
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.csprojAssemblyReference.cache
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.csproj.CoreCompileInputs.cache
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.csproj.CopyComplete
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.dll
+C:\Daily_Backup_code\8)Micraft_solution\3-4-2022\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.pdb
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\Micraft_Solutions.dll.config
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\Micraft_Solutions.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\Micraft_Solutions.pdb
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csc.exe
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csc.exe.config
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csc.rsp
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csi.exe
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csi.exe.config
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csi.rsp
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.AppContext.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Collections.Immutable.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Console.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.Compression.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.FileSystem.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.Pipes.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Reflection.Metadata.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.AccessControl.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Claims.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.ValueTuple.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Xml.XPath.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\vbc.exe
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\vbc.exe.config
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\vbc.rsp
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\VBCSCompiler.exe
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\roslyn\VBCSCompiler.exe.config
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\Antlr3.Runtime.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\EntityFramework.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\EntityFramework.SqlServer.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\Microsoft.Web.Infrastructure.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\Newtonsoft.Json.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Helpers.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Mvc.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Optimization.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Razor.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.Deployment.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.Razor.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\WebGrease.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\EntityFramework.xml
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\EntityFramework.SqlServer.xml
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Helpers.xml
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Mvc.xml
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Optimization.xml
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Razor.xml
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.xml
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.Deployment.xml
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.Razor.xml
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\Newtonsoft.Json.xml
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\Antlr3.Runtime.pdb
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.csproj.CoreCompileInputs.cache
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.csproj.CopyComplete
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.dll
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.pdb
+D:\Kaushal\Online_Master\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.csprojAssemblyReference.cache
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.csproj.CoreCompileInputs.cache
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.pdb
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\Micraft_Solutions.dll.config
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\Micraft_Solutions.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\Micraft_Solutions.pdb
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csc.exe
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csc.exe.config
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csc.rsp
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csi.exe
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csi.exe.config
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csi.rsp
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.AppContext.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Collections.Immutable.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Console.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.Compression.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.FileSystem.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.Pipes.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Reflection.Metadata.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.AccessControl.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Claims.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.ValueTuple.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Xml.XPath.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\vbc.exe
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\vbc.exe.config
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\vbc.rsp
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\VBCSCompiler.exe
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\VBCSCompiler.exe.config
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\Antlr3.Runtime.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\EntityFramework.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\EntityFramework.SqlServer.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\Microsoft.Web.Infrastructure.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\Newtonsoft.Json.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Helpers.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Mvc.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Optimization.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Razor.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.Deployment.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.Razor.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\WebGrease.dll
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\EntityFramework.xml
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\EntityFramework.SqlServer.xml
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Helpers.xml
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Mvc.xml
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Optimization.xml
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Razor.xml
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.xml
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.Deployment.xml
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.Razor.xml
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\Newtonsoft.Json.xml
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\Antlr3.Runtime.pdb
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.csproj.CopyComplete
+D:\Kaushal\class_Projects\Collage Project\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.csprojAssemblyReference.cache
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\Micraft_Solutions.dll.config
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\Micraft_Solutions.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\Micraft_Solutions.pdb
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csc.exe
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csc.exe.config
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csc.rsp
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csi.exe
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csi.exe.config
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csi.rsp
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.AppContext.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Collections.Immutable.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Console.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.Compression.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.FileSystem.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.Pipes.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Reflection.Metadata.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.AccessControl.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Claims.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.ValueTuple.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Xml.XPath.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\vbc.exe
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\vbc.exe.config
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\vbc.rsp
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\VBCSCompiler.exe
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\roslyn\VBCSCompiler.exe.config
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\Antlr3.Runtime.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\EntityFramework.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\EntityFramework.SqlServer.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\Microsoft.Web.Infrastructure.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\Newtonsoft.Json.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Helpers.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Mvc.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Optimization.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Razor.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.Deployment.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.Razor.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\WebGrease.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\EntityFramework.xml
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\EntityFramework.SqlServer.xml
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Helpers.xml
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Mvc.xml
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Optimization.xml
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Razor.xml
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.xml
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.Deployment.xml
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.Razor.xml
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\Newtonsoft.Json.xml
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\Antlr3.Runtime.pdb
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.csprojAssemblyReference.cache
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.csproj.CoreCompileInputs.cache
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.csproj.CopyComplete
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.dll
+D:\Kaushal\class_Projects\Kd projecttt\Collage Project\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.pdb
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\Micraft_Solutions.dll.config
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\Micraft_Solutions.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\Micraft_Solutions.pdb
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csc.exe
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csc.exe.config
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csc.rsp
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csi.exe
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csi.exe.config
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csi.rsp
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.AppContext.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Console.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.Compression.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.Pipes.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Claims.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.ValueTuple.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Xml.XPath.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\vbc.exe
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\vbc.exe.config
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\vbc.rsp
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\VBCSCompiler.exe
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\Antlr3.Runtime.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\EntityFramework.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\EntityFramework.SqlServer.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\Newtonsoft.Json.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Helpers.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Mvc.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Optimization.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Razor.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.Deployment.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.Razor.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\WebGrease.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\EntityFramework.xml
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\EntityFramework.SqlServer.xml
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Helpers.xml
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Mvc.xml
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Optimization.xml
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Razor.xml
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.xml
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.Deployment.xml
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.Razor.xml
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\Newtonsoft.Json.xml
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\Antlr3.Runtime.pdb
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.csprojAssemblyReference.cache
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.csproj.CoreCompileInputs.cache
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.csproj.CopyComplete
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.dll
+C:\Users\thero\Desktop\Kd projecttt\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.pdb
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.csproj.CoreCompileInputs.cache
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.csprojAssemblyReference.cache
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\Micraft_Solutions.dll.config
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\Micraft_Solutions.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\Micraft_Solutions.pdb
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csc.exe
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csc.exe.config
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csc.rsp
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csi.exe
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csi.exe.config
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\csi.rsp
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.Managed.Core.targets
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.AppContext.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Collections.Immutable.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Console.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.Compression.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.FileSystem.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.IO.Pipes.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Reflection.Metadata.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.AccessControl.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Claims.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Security.Principal.Windows.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.ValueTuple.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Xml.XmlDocument.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Xml.XPath.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\vbc.exe
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\vbc.exe.config
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\vbc.rsp
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\VBCSCompiler.exe
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\roslyn\VBCSCompiler.exe.config
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\Antlr3.Runtime.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\EntityFramework.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\EntityFramework.SqlServer.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\Microsoft.Web.Infrastructure.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\Newtonsoft.Json.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Helpers.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Mvc.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Optimization.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Razor.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.Deployment.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.Razor.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\WebGrease.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\EntityFramework.xml
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\EntityFramework.SqlServer.xml
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Helpers.xml
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Mvc.xml
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Optimization.xml
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\System.Web.Razor.xml
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.xml
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.Deployment.xml
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\System.Web.WebPages.Razor.xml
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\Newtonsoft.Json.xml
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\Antlr3.Runtime.pdb
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.csproj.CopyComplete
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.dll
+D:\asp.net MVC\class_Projects\kd\Micraft_Solutions\Micraft_Solutions\obj\Debug\Micraft_Solutions.pdb

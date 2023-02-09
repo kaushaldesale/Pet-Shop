@@ -1,0 +1,263 @@
+USE [master]
+GO
+/****** Object:  Database [Db_Micraft]    Script Date: 03-Feb-22 8:31:15 AM ******/
+CREATE DATABASE [Db_Micraft]
+ CONTAINMENT = NONE
+ ON  PRIMARY 
+( NAME = N'Db_Micraft', FILENAME = N'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\DATA\Db_Micraft.mdf' , SIZE = 8192KB , MAXSIZE = UNLIMITED, FILEGROWTH = 65536KB )
+ LOG ON 
+( NAME = N'Db_Micraft_log', FILENAME = N'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\DATA\Db_Micraft_log.ldf' , SIZE = 8192KB , MAXSIZE = 2048GB , FILEGROWTH = 65536KB )
+ WITH CATALOG_COLLATION = DATABASE_DEFAULT
+GO
+ALTER DATABASE [Db_Micraft] SET COMPATIBILITY_LEVEL = 150
+GO
+IF (1 = FULLTEXTSERVICEPROPERTY('IsFullTextInstalled'))
+begin
+EXEC [Db_Micraft].[dbo].[sp_fulltext_database] @action = 'enable'
+end
+GO
+ALTER DATABASE [Db_Micraft] SET ANSI_NULL_DEFAULT OFF 
+GO
+ALTER DATABASE [Db_Micraft] SET ANSI_NULLS OFF 
+GO
+ALTER DATABASE [Db_Micraft] SET ANSI_PADDING OFF 
+GO
+ALTER DATABASE [Db_Micraft] SET ANSI_WARNINGS OFF 
+GO
+ALTER DATABASE [Db_Micraft] SET ARITHABORT OFF 
+GO
+ALTER DATABASE [Db_Micraft] SET AUTO_CLOSE OFF 
+GO
+ALTER DATABASE [Db_Micraft] SET AUTO_SHRINK OFF 
+GO
+ALTER DATABASE [Db_Micraft] SET AUTO_UPDATE_STATISTICS ON 
+GO
+ALTER DATABASE [Db_Micraft] SET CURSOR_CLOSE_ON_COMMIT OFF 
+GO
+ALTER DATABASE [Db_Micraft] SET CURSOR_DEFAULT  GLOBAL 
+GO
+ALTER DATABASE [Db_Micraft] SET CONCAT_NULL_YIELDS_NULL OFF 
+GO
+ALTER DATABASE [Db_Micraft] SET NUMERIC_ROUNDABORT OFF 
+GO
+ALTER DATABASE [Db_Micraft] SET QUOTED_IDENTIFIER OFF 
+GO
+ALTER DATABASE [Db_Micraft] SET RECURSIVE_TRIGGERS OFF 
+GO
+ALTER DATABASE [Db_Micraft] SET  DISABLE_BROKER 
+GO
+ALTER DATABASE [Db_Micraft] SET AUTO_UPDATE_STATISTICS_ASYNC OFF 
+GO
+ALTER DATABASE [Db_Micraft] SET DATE_CORRELATION_OPTIMIZATION OFF 
+GO
+ALTER DATABASE [Db_Micraft] SET TRUSTWORTHY OFF 
+GO
+ALTER DATABASE [Db_Micraft] SET ALLOW_SNAPSHOT_ISOLATION OFF 
+GO
+ALTER DATABASE [Db_Micraft] SET PARAMETERIZATION SIMPLE 
+GO
+ALTER DATABASE [Db_Micraft] SET READ_COMMITTED_SNAPSHOT OFF 
+GO
+ALTER DATABASE [Db_Micraft] SET HONOR_BROKER_PRIORITY OFF 
+GO
+ALTER DATABASE [Db_Micraft] SET RECOVERY FULL 
+GO
+ALTER DATABASE [Db_Micraft] SET  MULTI_USER 
+GO
+ALTER DATABASE [Db_Micraft] SET PAGE_VERIFY CHECKSUM  
+GO
+ALTER DATABASE [Db_Micraft] SET DB_CHAINING OFF 
+GO
+ALTER DATABASE [Db_Micraft] SET FILESTREAM( NON_TRANSACTED_ACCESS = OFF ) 
+GO
+ALTER DATABASE [Db_Micraft] SET TARGET_RECOVERY_TIME = 60 SECONDS 
+GO
+ALTER DATABASE [Db_Micraft] SET DELAYED_DURABILITY = DISABLED 
+GO
+ALTER DATABASE [Db_Micraft] SET ACCELERATED_DATABASE_RECOVERY = OFF  
+GO
+EXEC sys.sp_db_vardecimal_storage_format N'Db_Micraft', N'ON'
+GO
+ALTER DATABASE [Db_Micraft] SET QUERY_STORE = OFF
+GO
+USE [Db_Micraft]
+GO
+/****** Object:  Table [dbo].[m_Customer]    Script Date: 03-Feb-22 8:31:17 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[m_Customer](
+	[Customer_Id] [int] IDENTITY(1,1) NOT NULL,
+	[Customer_Name] [nvarchar](50) NULL,
+	[Customer_Address] [nvarchar](max) NULL,
+	[Customer_City] [nvarchar](max) NULL,
+	[Pin_Code] [int] NULL,
+ CONSTRAINT [PK_m_Customer] PRIMARY KEY CLUSTERED 
+(
+	[Customer_Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[m_Order]    Script Date: 03-Feb-22 8:31:17 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[m_Order](
+	[Order_Id] [int] IDENTITY(1,1) NOT NULL,
+	[Order_Date] [datetime] NULL,
+	[Customer_Id] [int] NULL,
+	[Total_Qty] [nvarchar](50) NULL,
+	[Total_Amount] [decimal](18, 0) NULL,
+ CONSTRAINT [PK_m_Order] PRIMARY KEY CLUSTERED 
+(
+	[Order_Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[m_Product]    Script Date: 03-Feb-22 8:31:17 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[m_Product](
+	[Product_Id] [int] IDENTITY(1,1) NOT NULL,
+	[Product_Code] [nvarchar](50) NULL,
+	[Product_Name] [nvarchar](50) NULL,
+	[Product_Image] [nvarchar](max) NULL,
+	[Product_Unit] [nvarchar](50) NULL,
+	[Product_Rate] [decimal](18, 0) NULL,
+	[Product_Description] [nvarchar](max) NULL,
+ CONSTRAINT [PK_m_Product] PRIMARY KEY CLUSTERED 
+(
+	[Product_Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[t_line_order]    Script Date: 03-Feb-22 8:31:17 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[t_line_order](
+	[Line_ID] [int] IDENTITY(1,1) NOT NULL,
+	[OrderID] [int] NULL,
+	[ProductCode] [int] NULL,
+ CONSTRAINT [PK_t_line_order] PRIMARY KEY CLUSTERED 
+(
+	[Line_ID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+SET IDENTITY_INSERT [dbo].[m_Customer] ON 
+GO
+INSERT [dbo].[m_Customer] ([Customer_Id], [Customer_Name], [Customer_Address], [Customer_City], [Pin_Code]) VALUES (1, N'Jalindra Shinde', N'Hinjewadi', N'Pune', 410052)
+GO
+INSERT [dbo].[m_Customer] ([Customer_Id], [Customer_Name], [Customer_Address], [Customer_City], [Pin_Code]) VALUES (2, N'Kiran Sonawane', N'Mandal', N'Shirpur', 425405)
+GO
+INSERT [dbo].[m_Customer] ([Customer_Id], [Customer_Name], [Customer_Address], [Customer_City], [Pin_Code]) VALUES (3, N'Harshal  Patil', N'Dhule', N'Dhule', 425411)
+GO
+INSERT [dbo].[m_Customer] ([Customer_Id], [Customer_Name], [Customer_Address], [Customer_City], [Pin_Code]) VALUES (4, N'Mangesh Patil', N'Shingave Shivar', N'Shirpur', 425405)
+GO
+INSERT [dbo].[m_Customer] ([Customer_Id], [Customer_Name], [Customer_Address], [Customer_City], [Pin_Code]) VALUES (5, N'Bhupesh Borase', N'Pune', N'Pune', 410021)
+GO
+INSERT [dbo].[m_Customer] ([Customer_Id], [Customer_Name], [Customer_Address], [Customer_City], [Pin_Code]) VALUES (6, N'Akash Mali', N'Mandal', N'Shirpur', 425403)
+GO
+INSERT [dbo].[m_Customer] ([Customer_Id], [Customer_Name], [Customer_Address], [Customer_City], [Pin_Code]) VALUES (7, N'Akash Jadhav', N'Shindkheda', N'Dhule', 425406)
+GO
+SET IDENTITY_INSERT [dbo].[m_Customer] OFF
+GO
+SET IDENTITY_INSERT [dbo].[m_Order] ON 
+GO
+INSERT [dbo].[m_Order] ([Order_Id], [Order_Date], [Customer_Id], [Total_Qty], [Total_Amount]) VALUES (1, CAST(N'2022-01-29T00:00:00.000' AS DateTime), 1, N'2', CAST(1 AS Decimal(18, 0)))
+GO
+INSERT [dbo].[m_Order] ([Order_Id], [Order_Date], [Customer_Id], [Total_Qty], [Total_Amount]) VALUES (2, CAST(N'2022-01-30T00:00:00.000' AS DateTime), 3, N'22', CAST(12 AS Decimal(18, 0)))
+GO
+INSERT [dbo].[m_Order] ([Order_Id], [Order_Date], [Customer_Id], [Total_Qty], [Total_Amount]) VALUES (3, CAST(N'2022-01-27T00:00:00.000' AS DateTime), 1234, N'543', CAST(234 AS Decimal(18, 0)))
+GO
+INSERT [dbo].[m_Order] ([Order_Id], [Order_Date], [Customer_Id], [Total_Qty], [Total_Amount]) VALUES (4, CAST(N'2022-01-31T00:00:00.000' AS DateTime), 1, NULL, CAST(0 AS Decimal(18, 0)))
+GO
+INSERT [dbo].[m_Order] ([Order_Id], [Order_Date], [Customer_Id], [Total_Qty], [Total_Amount]) VALUES (5, CAST(N'2022-01-31T00:00:00.000' AS DateTime), 2, NULL, CAST(2 AS Decimal(18, 0)))
+GO
+INSERT [dbo].[m_Order] ([Order_Id], [Order_Date], [Customer_Id], [Total_Qty], [Total_Amount]) VALUES (6, CAST(N'2022-01-25T00:00:00.000' AS DateTime), 4, NULL, CAST(44 AS Decimal(18, 0)))
+GO
+INSERT [dbo].[m_Order] ([Order_Id], [Order_Date], [Customer_Id], [Total_Qty], [Total_Amount]) VALUES (7, CAST(N'2022-01-29T00:00:00.000' AS DateTime), 4, NULL, CAST(543 AS Decimal(18, 0)))
+GO
+INSERT [dbo].[m_Order] ([Order_Id], [Order_Date], [Customer_Id], [Total_Qty], [Total_Amount]) VALUES (8, CAST(N'2022-01-31T00:00:00.000' AS DateTime), 2, NULL, CAST(44 AS Decimal(18, 0)))
+GO
+INSERT [dbo].[m_Order] ([Order_Id], [Order_Date], [Customer_Id], [Total_Qty], [Total_Amount]) VALUES (9, CAST(N'2022-01-31T00:00:00.000' AS DateTime), 2, N'44', NULL)
+GO
+INSERT [dbo].[m_Order] ([Order_Id], [Order_Date], [Customer_Id], [Total_Qty], [Total_Amount]) VALUES (10, CAST(N'2022-01-31T00:00:00.000' AS DateTime), 2, N'1', NULL)
+GO
+INSERT [dbo].[m_Order] ([Order_Id], [Order_Date], [Customer_Id], [Total_Qty], [Total_Amount]) VALUES (11, CAST(N'2022-01-13T00:00:00.000' AS DateTime), 3, N'22', CAST(200 AS Decimal(18, 0)))
+GO
+INSERT [dbo].[m_Order] ([Order_Id], [Order_Date], [Customer_Id], [Total_Qty], [Total_Amount]) VALUES (12, CAST(N'2022-01-31T00:00:00.000' AS DateTime), 0, N'3.00', CAST(5400 AS Decimal(18, 0)))
+GO
+INSERT [dbo].[m_Order] ([Order_Id], [Order_Date], [Customer_Id], [Total_Qty], [Total_Amount]) VALUES (13, CAST(N'2022-01-31T00:00:00.000' AS DateTime), 0, N'3.00', CAST(10010 AS Decimal(18, 0)))
+GO
+INSERT [dbo].[m_Order] ([Order_Id], [Order_Date], [Customer_Id], [Total_Qty], [Total_Amount]) VALUES (14, CAST(N'2022-01-30T00:00:00.000' AS DateTime), 5, N'12.00', CAST(10050 AS Decimal(18, 0)))
+GO
+SET IDENTITY_INSERT [dbo].[m_Order] OFF
+GO
+SET IDENTITY_INSERT [dbo].[m_Product] ON 
+GO
+INSERT [dbo].[m_Product] ([Product_Id], [Product_Code], [Product_Name], [Product_Image], [Product_Unit], [Product_Rate], [Product_Description]) VALUES (1, N'D101', N'Desktop', N'~/SaveImage/Desktop221647985.jpg', N'No', CAST(25000 AS Decimal(18, 0)), N'I3 Desktop PC')
+GO
+INSERT [dbo].[m_Product] ([Product_Id], [Product_Code], [Product_Name], [Product_Image], [Product_Unit], [Product_Rate], [Product_Description]) VALUES (2, N'B231', N'Boll', N'~/SaveImage/Boll221747130.jpg', N'No', CAST(100 AS Decimal(18, 0)), N'Good Quality Boll')
+GO
+INSERT [dbo].[m_Product] ([Product_Id], [Product_Code], [Product_Name], [Product_Image], [Product_Unit], [Product_Rate], [Product_Description]) VALUES (3, N'K432', N'keyboard', N'~/SaveImage/keyboard221900973.jpg', N'Number', CAST(300 AS Decimal(18, 0)), N'USB keyboard')
+GO
+INSERT [dbo].[m_Product] ([Product_Id], [Product_Code], [Product_Name], [Product_Image], [Product_Unit], [Product_Rate], [Product_Description]) VALUES (4, N'L1316', N'Laptop', N'~/SaveImage/Laptop222011256.jpg', N'Number', CAST(15000 AS Decimal(18, 0)), N'i5 10 Gen Laptop')
+GO
+INSERT [dbo].[m_Product] ([Product_Id], [Product_Code], [Product_Name], [Product_Image], [Product_Unit], [Product_Rate], [Product_Description]) VALUES (5, N'M456', N'Mobile', N'~/SaveImage/Mobile222146150.jpg', N'No', CAST(40000 AS Decimal(18, 0)), N'ISO Mobile')
+GO
+INSERT [dbo].[m_Product] ([Product_Id], [Product_Code], [Product_Name], [Product_Image], [Product_Unit], [Product_Rate], [Product_Description]) VALUES (6, N'M435', N'Mouse', N'~/SaveImage/Mouse222242705.jpg', N'Number', CAST(50 AS Decimal(18, 0)), N'USb Mouse')
+GO
+INSERT [dbo].[m_Product] ([Product_Id], [Product_Code], [Product_Name], [Product_Image], [Product_Unit], [Product_Rate], [Product_Description]) VALUES (7, N'W765', N'Watch', N'~/SaveImage/Watch222338471.jpg', N'Number', CAST(3421 AS Decimal(18, 0)), N'Watch is Good Quality ')
+GO
+SET IDENTITY_INSERT [dbo].[m_Product] OFF
+GO
+SET IDENTITY_INSERT [dbo].[t_line_order] ON 
+GO
+INSERT [dbo].[t_line_order] ([Line_ID], [OrderID], [ProductCode]) VALUES (12, 27, 2)
+GO
+SET IDENTITY_INSERT [dbo].[t_line_order] OFF
+GO
+/****** Object:  StoredProcedure [dbo].[Sp_m_Customer]    Script Date: 03-Feb-22 8:31:18 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+create procedure [dbo].[Sp_m_Customer]
+as
+begin
+select * from m_Customer
+end
+GO
+/****** Object:  StoredProcedure [dbo].[Sp_m_Product_Report]    Script Date: 03-Feb-22 8:31:18 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE procedure [dbo].[Sp_m_Product_Report]
+as
+begin
+ select Product_Id,
+Product_Code,
+Product_Name,
+Product_Image,
+Product_Unit,
+Product_Rate,
+Product_Description
+
+from m_Product
+end
+
+
+select * from m_Product
+GO
+USE [master]
+GO
+ALTER DATABASE [Db_Micraft] SET  READ_WRITE 
+GO

@@ -1,0 +1,18 @@
+﻿@model Micraft_Solutions.Data_Context.t_order
+    @{Layout = null;}
+@using (Html.BeginForm("Action_Taken", "ActionTaken", FormMethod.Post))
+{
+    @Html.HiddenFor(m=>m.Order_id)
+    <lable>Action</lable>
+    @Html.DropDownListFor(m=>m.attr3,new List<SelectListItem>
+{
+    new SelectListItem{Text="--Select Action Taken--",Value="0"},
+    new SelectListItem{Text="Order In Progress",Value="Order In Progress"},
+    new SelectListItem{Text="Order In Deliver",Value="Order Deliver"},
+    new SelectListItem{Text="Order In Rejected",Value="Order Rejected"}
+
+
+},new { @class="form-control"})
+
+   <button type="submit" class="btn btn-danger">Action</button>
+}
